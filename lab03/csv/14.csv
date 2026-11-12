@@ -1,0 +1,6 @@
+"id","klient_id","pracownik_id","data_zamowienia","status"
+373,108,16,"2025-11-01","anulowane"
+623,36,10,"2025-11-01","wyslane"
+288,57,20,"2025-11-01","wyslane"
+581,160,5,"2025-11-03","wyslane"
+262,5,7,"2025-11-04","nowe"
